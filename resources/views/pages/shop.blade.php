@@ -11,9 +11,9 @@
       <div class="container-fluid">
           <div class="row">
               <div class="col-md-8 offset-md-2">
-                  <form action="simple-results.html">
+                  <form action="" method="GET">
                       <div class="input-group input-group-lg">
-                          <input type="search" class="form-control form-control-lg" placeholder="Type your keywords here" value="Lorem ipsum">
+                          <input name="search" type="search" class="form-control form-control-lg" placeholder="Type your keywords here" value="Lorem ipsum">
                           <div class="input-group-append">
                               <button type="submit" class="btn btn-lg btn-default">
                                   <i class="fa fa-search"></i>
